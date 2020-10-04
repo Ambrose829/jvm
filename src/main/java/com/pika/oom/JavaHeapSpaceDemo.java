@@ -10,6 +10,7 @@ package com.pika.oom;
  *
  * JVM参数配置演示
  * -Xms10m -Xmx10m
+ *
  */
 public class JavaHeapSpaceDemo {
     public static void main(String[] args) {
