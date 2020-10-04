@@ -1,4 +1,4 @@
-package com.pika;
+package com.pika.reference;
 
 import java.lang.ref.WeakReference;
 
