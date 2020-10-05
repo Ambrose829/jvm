@@ -7,6 +7,7 @@ package com.pika;
  */
 public class HelloGC {
     public static void main(String[] args) throws InterruptedException {
+        System.out.println(Runtime.getRuntime().availableProcessors());
 //        1
         System.out.println("helloGC******");
         Thread.sleep(Integer.MAX_VALUE);
